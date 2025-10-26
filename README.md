@@ -1,11 +1,11 @@
-##🛍️ Nostra
+##🛍️Nostra
 
 > **Simple. Responsive. Vanilla JS.**
 
 **Nostra** is a lightweight, responsive e-commerce website for buying shirts, built using **HTML**, **CSS**, and **JavaScript**.  
 It’s designed as a front-end practice or portfolio project, featuring a clean layout, dynamic cart, and checkout simulation.
 
-##✨Features
+#✨Features
 
 - 🧥 Product listing and detail views  
 - 🛒 Add to cart, update quantity, and remove items  
